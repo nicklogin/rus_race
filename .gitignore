@@ -1,3 +1,5 @@
 *.csv
 .vscode
 env
+clean_data
+data
